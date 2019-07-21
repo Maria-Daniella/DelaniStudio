@@ -74,7 +74,7 @@ button{
 #product {
    display: none;
 }
-@media only screen and (max-width: 425px){
+@media only screen and (max-width: 200px){
   #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
     width: 100%;
     height: 100%;
@@ -83,7 +83,7 @@ button{
     padding-top: 20%;
     font-size: 20px;
   }
-  @media only screen and (min-width: 825px){
+  @media only screen and (min-width: 600px){
   #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
     width: 100%;
     height: 100%;

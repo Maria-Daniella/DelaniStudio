@@ -1,0 +1,15 @@
+.landing-page {
+  color: white;
+  background-image: url(image1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.mouse_click {
+
+}
+.services {
+  color: white;
+  background-image: url(image2.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}

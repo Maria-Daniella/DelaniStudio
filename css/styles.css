@@ -1,15 +1,51 @@
 .landing-page {
-  color: white;
-  background-image: url(image1.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
+   color: white;
+   background-image: url(image1.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
 }
 .mouse_click {
 
 }
 .services {
+   color: white;
+   background-image: url(image2.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.contact-us {
+   background-image: url(c_image.jpg);
+   background-size: cover;
+}
+input[type=text],input[type=email],#comment{
+  background: transparent;
   color: white;
-  background-image: url(image2.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: 'Copse', serif;
+}
+button{
+  margin-left: 20%;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+#MERGE1{
+  width: 30%;
+  margin-left: 18%;
+  margin-right: 30px;
+}
+#MERGE0{
+  width: 30%;
+}
+#comment{
+  margin-left: 20%;
+  width: 60%;
+}
+#design {
+   display: none;
+}
+#development {
+   display: none;
+}
+#product {
+   display: none;
 }

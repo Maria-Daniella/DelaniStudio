@@ -14,6 +14,7 @@
    background-repeat: no-repeat;
 }
 .contact-us {
+   color: white;
    background-image: url(c_image.jpg);
    background-size: cover;
 }

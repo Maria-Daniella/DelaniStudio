@@ -14,7 +14,7 @@ $(document).ready(function(){
    $("#development").slideUp('1500');
    $("#development-image").slideDown('1500');
  });
-
+});
 
 $(document).ready(function(){
  $("#design-image").click(function(){
